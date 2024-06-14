@@ -59,7 +59,7 @@ function copyDiscordName() {
 <style scoped>
 .background {
   height: 100vh;
-  background-image: url('../public/images/background.jpg');
+  background-image: url('images/background.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
