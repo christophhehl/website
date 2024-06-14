@@ -2,6 +2,7 @@
   "name": "nuxt-app",
   "private": true,
   "type": "module",
+  "homepage": "https://christophhehl.github.io/website",
   "scripts": {
     "build": "nuxt build",
     "dev": "nuxt dev --host",
