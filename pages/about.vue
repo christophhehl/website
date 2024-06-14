@@ -4,7 +4,7 @@
 
 <template>
   <NavigationBar/>
-  <LinkTree/>
+  About
 </template>
 
 <style scoped>
